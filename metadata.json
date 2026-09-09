@@ -1,0 +1,10 @@
+{
+  "name": "IQ Coach - AI Interview Prep",
+  "description": "AI-powered mock interview and readiness coach for Vietnamese and APAC software engineers, powered by Google Gemini 3.6 Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

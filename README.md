@@ -75,7 +75,7 @@ flowchart TD
 ### 🛠️ Step 1: Clone and Install Dependencies
 ```bash
 git clone <your-repo-url>
-cd Archived_InterviewCoach-main
+cd iq-coach-ai-interview-prep
 npm install
 ```
 
